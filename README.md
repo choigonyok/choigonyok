@@ -5,7 +5,7 @@
 * GO, Gin
 
 ### **Capability**
-* GO
+* GO, Gin
 
 
 
