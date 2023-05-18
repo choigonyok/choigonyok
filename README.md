@@ -2,7 +2,7 @@
 * MSA(MicroService Architecture)
 * Conatiner (Docker, Kubernetes, Istio)
 * Cloud Service (AWS)
-* GOlang, Gin
+* GO, Gin
 
 ### **Capability**
 * GO
