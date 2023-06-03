@@ -6,6 +6,9 @@
 
 ### **Capability**
 * GO, Gin
+* React.js, Java Script, CSS, HTML
+* MySQL
+* AWS Deployment
 
 
 
