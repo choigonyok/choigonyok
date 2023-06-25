@@ -10,6 +10,6 @@
 * GO, Gin
 * React.js, JavaScript, CSS, HTML
 * MySQL
-* AWS Deployment
+* AWS Deployment (EC2, EB)
 * Nginx
 * Docker
