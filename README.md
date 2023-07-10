@@ -7,7 +7,7 @@
 * Go, React, ... Web Development
 
 ### **Capability**
-* GO, Gin
+* GO, Gin, Gorilla Websocket
 * React.js, JavaScript, CSS, HTML
 * MySQL
 * AWS Deployment (EC2, EB)
