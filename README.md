@@ -4,7 +4,7 @@
 * MSA (MicroService Architecture)
 * Conatiner & Orchestration : Docker, Kubernetes, Helm, Prometheus, Istio
 * IaC : Terraform, Ansible
-* CI/CD Pipeling : Jenkins
+* CI/CD Pipeline : Jenkins
 * Cloud Computing Service : AWS
 * Go, React, ... Web Development
 
