@@ -1,17 +1,17 @@
 ## not Generalist, not Specialist but General-Specialist
 
 ### **What I'm Interested in**
-* MSA (MicroService Architecture)
-* Conatiner & Orchestration : Docker, Kubernetes, Helm, Prometheus, Istio
+* Conatiner & Orchestration : Docker, Kubernetes, Helm, Istio, Prometheus, Grafana
 * IaC : Terraform, Ansible
-* CI/CD Pipeline : Jenkins
+* CI/CD Pipeline : Jenkins, ArgoCD
 * Cloud Computing Service : AWS
-* Go, React, ... Web Development
+* Web Development : Go, React
+* MSA (Micro-Service Architecture)
 
 ### **Capability**
+* K8S, Docker, Terraform
 * GO, Gin, Gorilla Websocket
-* Docker, Terraform
-* AWS : EC2, EB
+* AWS - EC2, EB, VPC, ROUTE53, SG, EIP
 * React.js, JavaScript, CSS, HTML
 * MySQL
 * NginX
