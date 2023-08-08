@@ -11,7 +11,7 @@
 ### **Capability**
 * K8S, Docker, Terraform
 * GO, Gin, Gorilla Websocket
-* AWS - EC2, EB, VPC, ROUTE53, SG, EIP
+* AWS - EC2, EB, ELB, VPC, ROUTE53, SG, EIP, IAM
 * React.js, JavaScript, CSS, HTML
 * MySQL
 * NginX
