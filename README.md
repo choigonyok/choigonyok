@@ -9,7 +9,7 @@
 * MSA (Micro-Service Architecture)
 
 ### **Capability**
-* K8S, Docker, Terraform
+* K8S, Docker, Terraform, Kubeadm, HAProxy
 * GO, Gin, Gorilla Websocket
 * AWS - EC2, EB, ELB, VPC, ROUTE53, SG, EIP, IAM
 * React.js, JavaScript, CSS, HTML
