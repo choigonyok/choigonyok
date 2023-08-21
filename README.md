@@ -1,9 +1,10 @@
 ## not Generalist, not Specialist but General-Specialist
 
 ### **What I'm Interested in**
-* Conatiner & Orchestration : Docker, Kubernetes, Helm, Istio, Prometheus, Grafana
+* Conatiner & Orchestration : Docker, Kubernetes, Helm
 * IaC : Terraform, Ansible
 * CI/CD Pipeline : Jenkins, ArgoCD
+* Service Mesh : Istio, Kiali, Prometheus, Grafana
 * Cloud Computing Service : AWS
 * Web Development : Go, React
 * MSA (Micro-Service Architecture)
@@ -15,3 +16,4 @@
 * React.js, JavaScript, CSS, HTML
 * MySQL
 * NginX
+* Git
