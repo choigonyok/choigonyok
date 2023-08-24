@@ -2,10 +2,19 @@
   
 ## **NOT GENERALIST, NOR SPECIALIST, BUT GENERAL-SPECIALIST**
 
-<br/>
+### **✔️ Stat**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choigonyok&theme=cobalt2&bg_color=00000000&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=45&hide_rank=true)](https://github.com/choigonyok)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigonyok&size_weight=1&count_weight=0&layout=donut-vertical&theme=highcontrast&bg_color=00000000&hide_title=true&hide_border=true&hide=css,html,scss)
+
+---
+
+### **✔️ Projects**
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choigonyok&repo=couple-chat-service-project&theme=yeblu&show_icons=true)](https://github.com/choigonyok/couple-chat-service-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choigonyok&repo=blog-project&theme=yeblu&show_icons=true)](https://github.com/choigonyok/blog-project)
 
 ---
 
@@ -43,14 +52,5 @@
 
 #### **collaboration**
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">  
-
----
-
-### **✔️ Projects**
-
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choigonyok&repo=couple-chat-service-project&theme=yeblu&show_icons=true)](https://github.com/choigonyok/couple-chat-service-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choigonyok&repo=blog-project&theme=yeblu&show_icons=true)](https://github.com/choigonyok/blog-project)
 
 </div>
