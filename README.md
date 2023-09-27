@@ -4,8 +4,7 @@
 
 ### **✔️ What I'm Interested in**
 
-✔️DevSecOps
-✔️Infrastructure ✔️Cloud ✔️Microservice Architecture ✔️Zero Architecture
+✔️ServiceMesh ✔️Kubernetes ✔️CICD ✔️Security ✔️Infrastructure ✔️Cloud ✔️Microservice Architecture ✔️Zero Trust Architecture
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigonyok&size_weight=1&count_weight=0&layout=donut-vertical&theme=highcontrast&bg_color=00000000&hide_title=true&hide_border=true&hide=css,html,scss)
 
