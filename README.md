@@ -13,5 +13,6 @@
 <img src="https://img.shields.io/badge/JAEGER-1071D3?style=flat&logo=joplin&logoColor=white"> <img src="https://img.shields.io/badge/TRIVY-1904DA?style=flat&logo=trivy&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/HAPROXY-2478CC?style=flat&logo=hetzner&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/MICROSERVICE ARCHITECTURE-466BB0?style=flat"> <img src="https://img.shields.io/badge/ZERO TRUST ARCHITECTURE-AC6199?style=flat">
+<img src="https://img.shields.io/badge/CLOUD NATIVE-2496ED?style=flat"/>
 
 </div>
