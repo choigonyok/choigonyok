@@ -3,11 +3,11 @@
 ## Not Just Specialist Or Generalist, But Special-Generalist
 
 ### Career
-<h5>
- 2017.03 - 2025.02 Computer Engineering (KyungHee University)
- 
- 2024.03 - 2024.08 Infrastructure Engineer (SLEXN, Inc.)
-</h5>
+<h4>
+ 2017.03 - 2025.02 Computer Engineering (KyungHee University) </br>
+ 2024.03 - 2024.08 Infrastructure Engineer Intern (SLEXN) </br>
+ 2025.02 - DevOps Engineer (Korbit) </br>
+</h4>
 
 ---
 ### Capabilities
